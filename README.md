@@ -4,6 +4,8 @@
 ### 4 Digits
 - Futaba 4-BT-68ZY
 
+![PXL_20250213_132319508~2](https://github.com/user-attachments/assets/0a67107c-ff6b-466e-8a5d-49ab75f7b9b6)
+
 ## Functions
 
 | Function | Parameters | Description |
